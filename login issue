@@ -1,0 +1,20 @@
+# Login Issue (Escalated)
+
+## Issue
+User unable to log in despite correct credentials.
+
+## User
+Sarah Johnson (Admin, Hope Recovery Center)
+
+## Actions Taken
+- Guided user through password reset
+- Suggested clearing cache and switching browsers
+- Confirmed issue persisted
+
+## Escalation
+Escalated to engineering with detailed notes:
+- Potential authentication failure
+- Requested login logs and timestamps
+
+## Outcome
+Ticket escalated for further investigation due to persistent issue.
